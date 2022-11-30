@@ -6,18 +6,18 @@
 ------
 ### **Project files include:**
 
-- <a href="pdf/NEW_MPB_PRESENTATION_CAPSTONE.pdf">UPDATED Slide presentation on Transfer Learning Model Optimization</a>. Since the completion of this course, I have gone back and examined issues I had with the transfer learning aspects of this project. Please see these slides for a treatment on what I have learned. Provided here as a PDF.
+- <a href="https://github.com/MPBDS2022/DSportfolio/blob/master/pdf/NEW_MPB_PRESENTATION_CAPSTONE.pdf">UPDATED Slide presentation on Transfer Learning Model Optimization</a>. Since the completion of this course, I have gone back and examined issues I had with the transfer learning aspects of this project. Please see these slides for a treatment on what I have learned. Provided here as a PDF.
   - Related jupyter notebooks:
     - <a href="https://github.com/MPBDS2022/Data-Science/blob/main/capstone/VGG16_modded_CAPSTONE.ipynb">VGG16 optimization</a>
     - <a href="https://github.com/MPBDS2022/Data-Science/blob/main/capstone/RESNET_modded_CAPSTONE.ipynb">ResNet101 optimization</a>
     - <a href="https://github.com/MPBDS2022/Data-Science/blob/main/capstone/EFFICIENTNET_modded_CAPSTONE.ipynb">EfficientNet B2 optimization</a>
 </br>
 </br>
-- <a href="pdf/MPB_capstone_presentation.pdf">Slide presentation</a> for this capstone project. This was presented live before a panel of program evaluators. Provided here as a PDF.
+- <a href="https://github.com/MPBDS2022/DSportfolio/blob/master/pdf/MPB_capstone_presentation.pdf">Slide presentation</a> for this capstone project. This was presented live before a panel of program evaluators. Provided here as a PDF.
   - Related jupyter notebook
     - <a href="https://github.com/MPBDS2022/Data-Science/blob/main/capstone/MPB_capstone_code.ipynb">Final code submitted for this project</a>
 
-- The <a href="pdf/MPB-capstone-REPORT.pdf">Capstone Final Report</a>. This concise 9 page report includes:
+- The <a href="https://github.com/MPBDS2022/DSportfolio/blob/master/pdf/MPB-capstone-REPORT.pdf">Capstone Final Report</a>. This concise 9 page report includes:
   - Executive Summary 
   - Problem Summary
   - Solution Design
